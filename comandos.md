@@ -1,4 +1,4 @@
-git --version
+# Comandos 
 cd  me sirve para navegar entre carpetas
 cd ..  para devolverme una carpeta
 git init  para inicializar repositorio vacío
