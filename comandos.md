@@ -8,3 +8,10 @@ git status  para verificar estado de archivos
 Set-ExecutionPolicy Unrestricted  para habilitar ejecución de comandos
 git add .  para agregar los archivos a mi git (caja)
 git commit -m "first commit"  Para sellar la caja
+
+python --version crear un entorno virtual en python python -m venv env312 activarlo env312\scripts\activate
+
+ deactivate
+
+pip list
+
