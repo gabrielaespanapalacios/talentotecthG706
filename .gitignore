@@ -1,1 +1,8 @@
 mision1/env312
+mision2/env312
+
+import nltk
+nltk.download('punkt')
+from sklearn.feature_extration.tex import countVectorizer
+# countVectorizer convierte texto en un vector
+from sklearn.naive_bayes import MultinomialNB
