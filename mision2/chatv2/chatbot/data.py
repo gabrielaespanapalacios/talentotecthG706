@@ -1,4 +1,4 @@
- training_data = [
+training_data = [
     ("hola", "¡Hola! ¿En qué puedo ayudarte?"),
     ("buenos días", "¡Buenos días!"),
     ("buenas tardes", "¡Buenas tardes!"),
@@ -55,10 +55,6 @@
     ("quiero conversar", "Perfecto, hablemos."),
     ("quiero jugar", "¿Qué te gustaría jugar?"),
     ("juguemos", "¡Vamos a jugar!"),
-    ("haz una suma", "Dime los números."),
-    ("haz una resta", "Dime los números."),
-    ("haz una multiplicación", "Dime los números."),
-    ("haz una división", "Dime los números."),
     ("cuánto es 2+2", "2+2 es 4."),
     ("cuánto es 5x5", "5x5 es 25."),
     ("qué es python", "Python es un lenguaje de programación popular."),
